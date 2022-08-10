@@ -1,0 +1,4 @@
+Django
+pillow
+autopep8
+djangorestframework
