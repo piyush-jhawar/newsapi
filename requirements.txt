@@ -2,3 +2,4 @@ Django
 pillow
 autopep8
 djangorestframework
+drf-spectacular
